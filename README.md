@@ -1,4 +1,4 @@
 # esi_to_cpp
 ```bash
-bash example/generate
+bash example/generate.bash
 ```
