@@ -90,3 +90,4 @@ if __name__ == "__main__":
         print("Compilation successful.")
     else:
         print("Compilation failed. Check the output for errors.")
+        exit(1)
